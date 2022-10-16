@@ -146,7 +146,7 @@ class _AllLikeState extends State<AllLike> {
                                           });
                                         },
                                           child: Icon(
-                                            Icons.star_border_outlined,
+                                            Icons.star,
                                             size: 26,
                                             color: Colors.blue,
                                           )
